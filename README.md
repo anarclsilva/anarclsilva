@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana Rita!
 - 🌱 I’m currently in the first year of my PhD in Astronomy at Porto, Portugal.
-- 👀 I’m interested in exoplanets atmospheres, but also arts and crafs, tv shows, and hiking.
+- 👀 I’m interested in exoplanets atmospheres, but also arts and crafs, tv shows, and occasionally hiking.
 - 📫 How to reach me: ana.rita@astro.up.pt
 
 <!---
